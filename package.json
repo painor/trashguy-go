@@ -1,0 +1,24 @@
+{
+  "name": "trashguy",
+  "version": "0.0.5",
+  "description": "The [REDACTED] TrashGuy script, written in Javascript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trashGuy",
+    "animated",
+    "emoji",
+    "zac"
+  ],
+  "files": [
+    "src/*",
+    "images/*",
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "author": "painor",
+  "license": "AGPL"
+}
